@@ -4,7 +4,7 @@
 I specializing in building scalable, efficient, and user-friendly web applications.
 
 * 🌍  I'm based in Sonipat, India
-* 🖥️  Have a look at my portfolio - [Girifolio](http://girifolio.netlify.app)
+* 🖥️  Have a look at my portfolio - [Giriexplores](http://giriexplores.netlify.app)
 * ✉️  You may contact me at [aditkumar0715@gmail.com](mailto:aditkumar0715@gmail.com)
 * 🧠  I'm learning Socket.IO, Nextjs and Typescript
 * 🤝  I'm open to collaborating on exciting opportunities as a Frontend, Backend or Fullstack Developer.
